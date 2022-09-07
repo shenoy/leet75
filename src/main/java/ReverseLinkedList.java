@@ -16,6 +16,9 @@ import java.awt.*;
  *
  * Input: head = []
  * Output: []
+ *
+ * Runtime: 45 ms, faster than 12.66% of Java online submissions for Reverse Linked List.
+ * Memory Usage: 42.8 MB, less than 67.34% of Java online submissions for Reverse Linked List.
  */
 public class ReverseLinkedList {
     public ListNode reverseList(ListNode head) {
